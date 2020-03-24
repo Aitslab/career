@@ -34,6 +34,10 @@ RSG Lund
 
 http://rsg-sweden.iscbsc.org/
 
+eHealth@LTH
+
+http://www.ehealth.lth.se/
+
 
 ### career support organizations
 Staff Career Development
@@ -52,9 +56,13 @@ PhD career program
 
 https://postdoctraining.com/career-control-for-researchers-for-lund/
 
-MedCUL eacher training
+MedCUL teacher training
 
 https://www.med.lu.se/english/intramed/teaching_research/teaching/medcul_centre_for_teaching_and_learning
+
+AHU teacher training
+
+https://www.ahu.lu.se/en/
 
 ### career events
 https://mycareer.lu.se/sv/events
