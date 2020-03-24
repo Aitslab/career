@@ -21,7 +21,7 @@ Successful Presentation
 https://www.coursera.org/learn/presentation-skills/home/welcome
 
 ## resources at Lund University
-### PhD schools, networks
+### PhD schools, networks, organizations
 AI Lund
 
 http://ai.lu.se/
@@ -29,6 +29,11 @@ http://ai.lu.se/
 COMPUTE PhD School
 
 http://cbbp.thep.lu.se/compute/index.php
+
+RSG Lund
+
+http://rsg-sweden.iscbsc.org/
+
 
 ### career support organizations
 Staff Career Development
@@ -57,6 +62,10 @@ https://mycareer.lu.se/sv/events
 https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/time_2_talk
 
 https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/careers_centre
+
+https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/future_faculty
+
+https://www.wings.lu.se/workshops-and-seminars
 
 
 
