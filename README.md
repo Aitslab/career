@@ -47,6 +47,10 @@ PhD career program
 
 https://postdoctraining.com/career-control-for-researchers-for-lund/
 
+MedCUL eacher training
+
+https://www.med.lu.se/english/intramed/teaching_research/teaching/medcul_centre_for_teaching_and_learning
+
 ### career events
 https://mycareer.lu.se/sv/events
 
