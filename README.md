@@ -63,7 +63,7 @@ https://www.med.lu.se/english/intramed/employment/career_development/resources_f
 
 https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/careers_centre
 
-https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/future_faculty
+https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/future_faculty/news_and_events
 
 https://www.wings.lu.se/workshops-and-seminars
 
