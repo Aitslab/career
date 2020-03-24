@@ -1,2 +1,12 @@
 # career
 career development resouces for PhD students and Postdocs
+
+## writing skills
+Writing in the Sciences course
+
+https://www.coursera.org/learn/sciwrite/home/welcome
+
+Grammar and Punctuation course
+
+https://www.coursera.org/learn/grammar-punctuation?specialization=academic-english
+
