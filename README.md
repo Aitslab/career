@@ -112,5 +112,16 @@ https://www.lunduniversity.lu.se/current-students/academic-matters-support/acade
 
 https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/write-days-for-phd-students
 
+### other events
+http://www.compile.lu.se/events/
 
+https://www.lu.se/events
+
+https://www.meetup.com/Malmo-ai/
+
+https://ideon.se/events/
+
+https://www.mediconvillage.se/en/events
+
+https://mobileheights.org/events/
 
