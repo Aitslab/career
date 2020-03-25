@@ -1,6 +1,16 @@
 # career
 career development resouces for PhD students and Postdocs
 
+## research design
+### epidemiology
+Wang et al. Study Designs in Epidemiology and Levels of Evidence
+
+https://www.ajo.com/article/S0002-9394(09)00549-2/fulltext
+
+Epidemiology for the uninitiated
+
+https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/
+
 ## writing skills
 Writing in the Sciences course
 
