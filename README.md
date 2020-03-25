@@ -40,6 +40,10 @@ http://www.ehealth.lth.se/
 
 
 ### career support organizations
+Academic Support Centre
+
+https://www.lunduniversity.lu.se/current-students/academic-matters-support/the-academic-support-centre
+
 Staff Career Development
 
 https://www.staff.lu.se/employment/professional-and-careers-development
@@ -74,6 +78,10 @@ https://www.med.lu.se/english/intramed/employment/career_development/resources_f
 https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/future_faculty/news_and_events
 
 https://www.wings.lu.se/workshops-and-seminars
+
+### Mobility
+
+https://www.staff.lu.se/research-and-education/international-opportunities-and-partnerships/funding-mobility/erasmus-staff-training
 
 
 
