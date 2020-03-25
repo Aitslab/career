@@ -14,6 +14,15 @@ Grammar and Punctuation course
 
 https://www.coursera.org/learn/grammar-punctuation?specialization=academic-english
 
+Slides from Lund University seminar "The Thesis Writing Process"
+
+https://lunduniversity.lu.se/sites/www.lunduniversity.lu.se/files/writing-process-feb-2020.pdf
+
+List of writing resources from Lund University Academic Support Centre
+
+https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/academic-resources
+https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/avoiding-plagiarism
+
 ## presentation skills
 
 Successful Presentation
@@ -41,6 +50,8 @@ http://www.ehealth.lth.se/
 
 ### career support organizations
 Academic Support Centre
+
+offers individual counselling, write nights and days, writing feedback groups
 
 https://www.lunduniversity.lu.se/current-students/academic-matters-support/the-academic-support-centre
 
@@ -78,6 +89,12 @@ https://www.med.lu.se/english/intramed/employment/career_development/resources_f
 https://www.med.lu.se/english/intramed/employment/career_development/resources_for_young_researchers/future_faculty/news_and_events
 
 https://www.wings.lu.se/workshops-and-seminars
+
+https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/lectures-at-the-academic-support-centre
+
+https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/write-nights-at-the-academic-support-centre
+
+https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/write-days-for-phd-students
 
 ### Mobility
 
