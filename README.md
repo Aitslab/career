@@ -29,6 +29,22 @@ Successful Presentation
 
 https://www.coursera.org/learn/presentation-skills/home/welcome
 
+## finding grants
+
+https://www.staff.lu.se/research-and-education/international-opportunities-and-partnerships/funding-mobility
+
+https://www.science.lu.se/internal/research-and-education/apply-for-grants-and-scholarships
+
+https://www.med.lu.se/english/intramed/teaching_research/research/grants_scholarships
+
+https://www.staff.lu.se/research-and-education/research-support/research-funding
+
+https://www.staff.lu.se/research-and-education/research-support/travel-and-research-grants
+
+https://www.researchprofessional.com/sso/login?service=https://www.researchprofessional.com/0/
+
+https://www.gu.se/forskning/stipendier/aktuellastipendier
+
 ## resources at Lund University
 ### PhD schools, networks, organizations
 AI Lund
@@ -95,10 +111,6 @@ https://www.lunduniversity.lu.se/current-students/academic-matters-support/acade
 https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/write-nights-at-the-academic-support-centre
 
 https://www.lunduniversity.lu.se/current-students/academic-matters-support/academic-support-centre/write-days-for-phd-students
-
-### Mobility
-
-https://www.staff.lu.se/research-and-education/international-opportunities-and-partnerships/funding-mobility/erasmus-staff-training
 
 
 
